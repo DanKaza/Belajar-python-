@@ -1,2 +1,2 @@
-# Belajar-python-
-Isinya hanya contoh sintaks python buat belajar sendiri
+# Belajar Python🐍
+Isinya hanya contoh sintaks python buat belajar sendiri.
